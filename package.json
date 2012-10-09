@@ -1,0 +1,8 @@
+{
+  "name": "empty_nodejs_app",
+  "version": "1.0.0",
+  "description": "Is empty",
+  "private": true,
+  "author": "Ryan Souza",
+  "license": "BSD"
+}
