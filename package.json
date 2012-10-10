@@ -4,5 +4,7 @@
   "description": "Is empty",
   "private": true,
   "author": "Ryan Souza",
-  "license": "BSD"
+  "license": "BSD",
+  "engines": {"node": ">= 1000.0.0"},
+  "scripts": {"start": "echo 'hi'"}
 }
